@@ -1,0 +1,14 @@
+mlflow
+os
+nltk
+seaborn
+matplotlib
+prefect
+tqdm
+joblib
+pyarrow
+evidently 
+pandas
+numpy
+scikit-learn
+jupyter
